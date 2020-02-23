@@ -1,0 +1,9 @@
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\bin\Debug\Triangulate.exe.config
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\bin\Debug\Triangulate.exe
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\bin\Debug\Triangulate.pdb
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\obj\Debug\Triangulate.csprojAssemblyReference.cache
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\obj\Debug\Triangulate.Main.resources
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\obj\Debug\Triangulate.Properties.Resources.resources
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\obj\Debug\Triangulate.csproj.GenerateResource.cache
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\obj\Debug\Triangulate.exe
+C:\Users\Дима\Documents\Учеба\Программы\Triangulate\Triangulate\obj\Debug\Triangulate.pdb
